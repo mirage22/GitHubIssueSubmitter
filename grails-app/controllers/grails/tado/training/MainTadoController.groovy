@@ -8,7 +8,6 @@ class MainTadoController {
 
 
 
-//        redirect(action: "list", params: params)
     }
 
 

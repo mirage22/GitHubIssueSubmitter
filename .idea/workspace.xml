@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="092ded50-81a9-4517-9914-00912a128e55" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/libHTMLBuilder.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/domain/grails/tado/training/Issue.groovy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/views/issue/_form.gsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/views/issue/create.gsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/views/issue/edit.gsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/views/issue/list.gsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/views/issue/show.gsp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GitHubIssueSubmitter-grailsPlugins.iml" afterPath="$PROJECT_DIR$/GitHubIssueSubmitter-grailsPlugins.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GitHubIssueSubmitter.iml" afterPath="$PROJECT_DIR$/GitHubIssueSubmitter.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application.properties" afterPath="$PROJECT_DIR$/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/grails/tado/training/IssueController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/grails/tado/training/IssueController.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/grails/tado/training/MainTadoController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/grails/tado/training/MainTadoController.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/mainTado/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/mainTado/index.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/githubissuesubmitter/GitHubIssueSumbitterTests.groovy" afterPath="$PROJECT_DIR$/test/unit/githubissuesubmitter/GitHubIssueSumbitterTests.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/githubissuesubmitter/IssueControllerTests.groovy" afterPath="$PROJECT_DIR$/test/unit/githubissuesubmitter/IssueControllerTests.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/githubissuesubmitter/IssueTests.groovy" afterPath="$PROJECT_DIR$/test/unit/githubissuesubmitter/IssueTests.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/githubissuesubmitter/TestTests.groovy" afterPath="$PROJECT_DIR$/test/unit/githubissuesubmitter/TestTests.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/grails/tado/training/IssueControllerTests.groovy" afterPath="$PROJECT_DIR$/test/unit/grails/tado/training/IssueControllerTests.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/grails/tado/training/IssueTests.groovy" afterPath="$PROJECT_DIR$/test/unit/grails/tado/training/IssueTests.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/grails/tado/training/MainTadoControllerTests.groovy" afterPath="$PROJECT_DIR$/test/unit/grails/tado/training/MainTadoControllerTests.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/grails/tado/training/MainTadoTests.groovy" afterPath="$PROJECT_DIR$/test/unit/grails/tado/training/MainTadoTests.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/grails/tado/training/TestControllerTests.groovy" afterPath="$PROJECT_DIR$/test/unit/grails/tado/training/TestControllerTests.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/grails/tado/training/TestTests.groovy" afterPath="$PROJECT_DIR$/test/unit/grails/tado/training/TestTests.groovy" />
     </list>
     <ignored path="GitHubIssueSubmitter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -91,16 +64,16 @@
       <file leaf-file-name="MainTadoController.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/grails/tado/training/MainTadoController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="6" selection-start="36" selection-end="36" vertical-scroll-proportion="-1.3043479">
+            <state line="10" column="0" selection-start="155" selection-end="155" vertical-scroll-proportion="-6.521739">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IssueController.groovy" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="IssueController.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/grails/tado/training/IssueController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="0" selection-start="963" selection-end="963" vertical-scroll-proportion="-7.3469386">
+            <state line="34" column="0" selection-start="963" selection-end="963" vertical-scroll-proportion="1.0019647">
               <folding>
                 <element signature="e#30#67#0" expanded="true" />
               </folding>
@@ -111,11 +84,20 @@
       <file leaf-file-name="index.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/mainTado/index.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="23" selection-start="541" selection-end="552" vertical-scroll-proportion="3.1702127">
+            <state line="30" column="27" selection-start="697" selection-end="698" vertical-scroll-proportion="0.26027396">
               <folding>
                 <marker date="1363185977000" expanded="true" signature="305:313" placeholder="{...}" />
                 <marker date="1363185977000" expanded="true" signature="342:607" placeholder="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_form.gsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/mainTado/_form.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -147,10 +129,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BootStrap.groovy" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BootStrap.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="25" selection-start="1275" selection-end="1275" vertical-scroll-proportion="0.67741936">
+            <state line="35" column="25" selection-start="1275" selection-end="1275" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -193,12 +175,12 @@
         <option value="$PROJECT_DIR$/grails-app/domain/githubissuesubmitter/GitHubIssueSubmitter.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/githubissuesubmitter/GitHubIssueSumbitter.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/grails/tado/training/MainTadoController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/mainTado/index.gsp" />
         <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/grails/tado/training/IssueController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/grails/tado/training/MainTadoController.groovy" />
       </list>
     </option>
   </component>
@@ -807,13 +789,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grails-app/views/mainTado/_form.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web-app/WEB-INF/sitemesh.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="9" selection-start="612" selection-end="612" vertical-scroll-proportion="0.0">
@@ -842,13 +817,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="48" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/conf/ApplicationResources.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -860,23 +828,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="29" selection-start="260" selection-end="260" vertical-scroll-proportion="0.17564403">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/grails/tado/training/MainTadoController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="6" selection-start="36" selection-end="36" vertical-scroll-proportion="-1.3043479">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/mainTado/index.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="23" selection-start="541" selection-end="552" vertical-scroll-proportion="3.1702127">
-          <folding>
-            <marker date="1363185977000" expanded="true" signature="305:313" placeholder="{...}" />
-            <marker date="1363185977000" expanded="true" signature="342:607" placeholder="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -901,20 +852,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/grails/tado/training/IssueController.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="963" selection-end="963" vertical-scroll-proportion="-7.3469386">
+        <state line="35" column="25" selection-start="1275" selection-end="1275" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#30#67#0" expanded="true" />
+            <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/grails/tado/training/MainTadoController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="25" selection-start="1275" selection-end="1275" vertical-scroll-proportion="0.67741936">
+        <state line="10" column="0" selection-start="155" selection-end="155" vertical-scroll-proportion="-6.521739">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/mainTado/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="27" selection-start="697" selection-end="698" vertical-scroll-proportion="0.26027396">
           <folding>
-            <element signature="e#0#37#0" expanded="true" />
+            <marker date="1363185977000" expanded="true" signature="305:313" placeholder="{...}" />
+            <marker date="1363185977000" expanded="true" signature="342:607" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/mainTado/_form.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="48" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/grails/tado/training/IssueController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="963" selection-end="963" vertical-scroll-proportion="1.0019647">
+          <folding>
+            <element signature="e#30#67#0" expanded="true" />
           </folding>
         </state>
       </provider>
