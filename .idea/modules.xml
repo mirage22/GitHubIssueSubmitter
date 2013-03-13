@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GitHubIssueSubmitter.iml" filepath="$PROJECT_DIR$/GitHubIssueSubmitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GitHubIssueSubmitter-grailsPlugins.iml" filepath="$PROJECT_DIR$/GitHubIssueSubmitter-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
