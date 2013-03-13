@@ -41,6 +41,10 @@ grails.project.dependency.resolution = {
         runtime ":hibernate:$grailsVersion"
         runtime ":jquery:1.7.2"
         runtime ":resources:1.1.6"
+        compile ":rest-client-builder:1.0.2"
+        compile(":github-gist:0.1")
+
+
 
         // Uncomment these (or add new ones) to enable additional resources capabilities
         //runtime ":zipped-resources:1.0"
@@ -49,6 +53,7 @@ grails.project.dependency.resolution = {
 
         build ":tomcat:$grailsVersion"
         compile ":twitter-bootstrap:2.3.0"
+        compile ":rest-0.7"
 
         runtime ":database-migration:1.1"
 

@@ -19,6 +19,9 @@
         console.log("send SOMEHTING title" + title + " BODY" + body);
         $('#myModal').modal('hide')
 
+        $('#hiddenTitle').val(title)
+        $('#hiddenBody').val(body)
+
     }
 
 </g:javascript>
@@ -29,6 +32,9 @@
 
     <a href="#myModal" role="button" type="button" class="btn btn-small btn-primary" data-toggle="modal">Launch demo modal</a>
 
+    <g:form controller="issue" action="createIssue">
+    <g:hiddenField name="hiddenTitle" value="" />
+    <g:hiddenField name="hiddenBody" value="" />
     <!-- Modal -->
     <div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
         <div class="modal-header">
@@ -44,8 +50,10 @@
         <div class="modal-footer">
             <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
             <button onclick="issue_send()" class="btn btn-primary">Send Issue</button>
+
         </div>
     </div>
+    </g:form>
 
 </body>
 

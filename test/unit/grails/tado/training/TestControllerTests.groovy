@@ -1,9 +1,8 @@
 package grails.tado.training
 
-
-
-import org.junit.*
-import grails.test.mixin.*
+import grails.test.mixin.Mock
+import grails.test.mixin.TestFor
+import org.junit.Test
 
 @TestFor(TestController)
 @Mock(Test)
