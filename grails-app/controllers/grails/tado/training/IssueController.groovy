@@ -20,7 +20,7 @@ class IssueController {
 
     private static String GIT_HUB_API_URL = "https://api.github.com/repos/mirage22/GitHubIssueSubmitter/issues"
     private static String GIT_HUB_API_USER = "mirage22"
-    private static String GIT_HUB_API_PASSWORD = "Mirage09"
+    private static String GIT_HUB_API_PASSWORD = ""  // Your Password
 
     def index() {
 
