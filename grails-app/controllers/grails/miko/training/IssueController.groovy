@@ -59,7 +59,7 @@ class IssueController {
         restClient =  getRestClient()
         createNewIssue(title, body)
 
-        redirect controller: 'mainTado', action: 'index'
+        redirect controller: 'mainMiko', action: 'index'
     }
 
     def createNewIssue(title, description){

@@ -857,8 +857,8 @@ java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.sprin
 	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:42)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:112)
-	at grails.tado.training.IssueController.list(IssueController.groovy:15)
-	at grails.tado.training.IssueController.list(IssueController.groovy)
+	at grails.miko.training.IssueController.list(IssueController.groovy:15)
+	at grails.miko.training.IssueController.list(IssueController.groovy)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
@@ -947,7 +947,7 @@ java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.sprin
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 12:21:54,688 [http-bio-8080-exec-4] ERROR StackTrace  - Full Stack Trace:
 java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.springframework.orm.hibernate3.HibernateCallback
-	at grails.tado.training.IssueController.list(IssueController.groovy:15)
+	at grails.miko.training.IssueController.list(IssueController.groovy:15)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -955,7 +955,7 @@ java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.sprin
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 12:21:54,695 [http-bio-8080-exec-4] ERROR StackTrace  - Full Stack Trace:
 java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.springframework.orm.hibernate3.HibernateCallback
-	at grails.tado.training.IssueController.list(IssueController.groovy:15)
+	at grails.miko.training.IssueController.list(IssueController.groovy:15)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -963,7 +963,7 @@ java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.sprin
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 12:21:54,696 [http-bio-8080-exec-4] ERROR StackTrace  - Full Stack Trace:
 java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.springframework.orm.hibernate3.HibernateCallback
-	at grails.tado.training.IssueController.list(IssueController.groovy:15)
+	at grails.miko.training.IssueController.list(IssueController.groovy:15)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -971,7 +971,7 @@ java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.sprin
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 12:21:54,696 [http-bio-8080-exec-4] ERROR StackTrace  - Full Stack Trace:
 java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.springframework.orm.hibernate3.HibernateCallback
-	at grails.tado.training.IssueController.list(IssueController.groovy:15)
+	at grails.miko.training.IssueController.list(IssueController.groovy:15)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -979,7 +979,7 @@ java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.sprin
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 12:21:54,696 [http-bio-8080-exec-4] ERROR StackTrace  - Full Stack Trace:
 java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.springframework.orm.hibernate3.HibernateCallback
-	at grails.tado.training.IssueController.list(IssueController.groovy:15)
+	at grails.miko.training.IssueController.list(IssueController.groovy:15)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -993,10 +993,10 @@ java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.sprin
 	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:42)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:112)
-	at grails.tado.training.IssueController$$ENzxrdhQ.list(IssueController.groovy:17)
-	at grails.tado.training.IssueController$$DNzxrdhQ.list(Unknown Source)
-	at grails.tado.training.IssueController.list(IssueController.groovy)
-	at grails.tado.training.IssueController$$ENzxrdhQ.list(IssueController.groovy)
+	at grails.miko.training.IssueController$$ENzxrdhQ.list(IssueController.groovy:17)
+	at grails.miko.training.IssueController$$DNzxrdhQ.list(Unknown Source)
+	at grails.miko.training.IssueController.list(IssueController.groovy)
+	at grails.miko.training.IssueController$$ENzxrdhQ.list(IssueController.groovy)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
@@ -1086,7 +1086,7 @@ java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.sprin
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 12:28:38,195 [http-bio-8080-exec-1] ERROR StackTrace  - Full Stack Trace:
 java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.springframework.orm.hibernate3.HibernateCallback
-	at grails.tado.training.IssueController$$ENzxrdhQ.list(IssueController.groovy:17)
+	at grails.miko.training.IssueController$$ENzxrdhQ.list(IssueController.groovy:17)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -1094,7 +1094,7 @@ java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.sprin
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 12:28:38,205 [http-bio-8080-exec-1] ERROR StackTrace  - Full Stack Trace:
 java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.springframework.orm.hibernate3.HibernateCallback
-	at grails.tado.training.IssueController$$ENzxrdhQ.list(IssueController.groovy:17)
+	at grails.miko.training.IssueController$$ENzxrdhQ.list(IssueController.groovy:17)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -1102,7 +1102,7 @@ java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.sprin
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 12:28:38,205 [http-bio-8080-exec-1] ERROR StackTrace  - Full Stack Trace:
 java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.springframework.orm.hibernate3.HibernateCallback
-	at grails.tado.training.IssueController$$ENzxrdhQ.list(IssueController.groovy:17)
+	at grails.miko.training.IssueController$$ENzxrdhQ.list(IssueController.groovy:17)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -1110,7 +1110,7 @@ java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.sprin
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 12:28:38,206 [http-bio-8080-exec-1] ERROR StackTrace  - Full Stack Trace:
 java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.springframework.orm.hibernate3.HibernateCallback
-	at grails.tado.training.IssueController$$ENzxrdhQ.list(IssueController.groovy:17)
+	at grails.miko.training.IssueController$$ENzxrdhQ.list(IssueController.groovy:17)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -1118,7 +1118,7 @@ java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.sprin
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 12:28:38,206 [http-bio-8080-exec-1] ERROR StackTrace  - Full Stack Trace:
 java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.springframework.orm.hibernate3.HibernateCallback
-	at grails.tado.training.IssueController$$ENzxrdhQ.list(IssueController.groovy:17)
+	at grails.miko.training.IssueController$$ENzxrdhQ.list(IssueController.groovy:17)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -1132,8 +1132,8 @@ java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.sprin
 	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:42)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:112)
-	at grails.tado.training.IssueController.list(IssueController.groovy:17)
-	at grails.tado.training.IssueController.list(IssueController.groovy)
+	at grails.miko.training.IssueController.list(IssueController.groovy:17)
+	at grails.miko.training.IssueController.list(IssueController.groovy)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
@@ -1222,7 +1222,7 @@ java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.sprin
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 12:30:06,647 [http-bio-8080-exec-9] ERROR StackTrace  - Full Stack Trace:
 java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.springframework.orm.hibernate3.HibernateCallback
-	at grails.tado.training.IssueController.list(IssueController.groovy:17)
+	at grails.miko.training.IssueController.list(IssueController.groovy:17)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -1230,7 +1230,7 @@ java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.sprin
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 12:30:06,656 [http-bio-8080-exec-9] ERROR StackTrace  - Full Stack Trace:
 java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.springframework.orm.hibernate3.HibernateCallback
-	at grails.tado.training.IssueController.list(IssueController.groovy:17)
+	at grails.miko.training.IssueController.list(IssueController.groovy:17)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -1238,7 +1238,7 @@ java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.sprin
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 12:30:06,656 [http-bio-8080-exec-9] ERROR StackTrace  - Full Stack Trace:
 java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.springframework.orm.hibernate3.HibernateCallback
-	at grails.tado.training.IssueController.list(IssueController.groovy:17)
+	at grails.miko.training.IssueController.list(IssueController.groovy:17)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -1246,7 +1246,7 @@ java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.sprin
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 12:30:06,656 [http-bio-8080-exec-9] ERROR StackTrace  - Full Stack Trace:
 java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.springframework.orm.hibernate3.HibernateCallback
-	at grails.tado.training.IssueController.list(IssueController.groovy:17)
+	at grails.miko.training.IssueController.list(IssueController.groovy:17)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -1254,7 +1254,7 @@ java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.sprin
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 12:30:06,657 [http-bio-8080-exec-9] ERROR StackTrace  - Full Stack Trace:
 java.lang.ClassCastException: com.sun.proxy.$Proxy24 cannot be cast to org.springframework.orm.hibernate3.HibernateCallback
-	at grails.tado.training.IssueController.list(IssueController.groovy:17)
+	at grails.miko.training.IssueController.list(IssueController.groovy:17)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -1289,10 +1289,10 @@ Possible solutions: list(), list(java.util.Map), is(java.lang.Object), wait(), l
 	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:42)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:116)
-	at grails.tado.training.IssueController$$ENzxsmSW.list(IssueController.groovy:18)
-	at grails.tado.training.IssueController$$DNzxsmSW.list(Unknown Source)
-	at grails.tado.training.IssueController.list(IssueController.groovy)
-	at grails.tado.training.IssueController$$ENzxsmSW.list(IssueController.groovy)
+	at grails.miko.training.IssueController$$ENzxsmSW.list(IssueController.groovy:18)
+	at grails.miko.training.IssueController$$DNzxsmSW.list(Unknown Source)
+	at grails.miko.training.IssueController.list(IssueController.groovy)
+	at grails.miko.training.IssueController$$ENzxsmSW.list(IssueController.groovy)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
@@ -1384,7 +1384,7 @@ Possible solutions: list(), list(java.util.Map), is(java.lang.Object), wait(), l
 groovy.lang.MissingMethodException: No signature of method: grails.tado.training.Issue.list() is applicable for argument types: (java.lang.Integer) values: [3]
 Possible solutions: list(), list(java.util.Map), is(java.lang.Object), wait(), lock(), find()
 	at org.grails.datastore.gorm.GormStaticApi.methodMissing(GormStaticApi.groovy:97)
-	at grails.tado.training.IssueController$$ENzxsmSW.list(IssueController.groovy:18)
+	at grails.miko.training.IssueController$$ENzxsmSW.list(IssueController.groovy:18)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -1394,7 +1394,7 @@ Possible solutions: list(), list(java.util.Map), is(java.lang.Object), wait(), l
 groovy.lang.MissingMethodException: No signature of method: grails.tado.training.Issue.list() is applicable for argument types: (java.lang.Integer) values: [3]
 Possible solutions: list(), list(java.util.Map), is(java.lang.Object), wait(), lock(), find()
 	at org.grails.datastore.gorm.GormStaticApi.methodMissing(GormStaticApi.groovy:97)
-	at grails.tado.training.IssueController$$ENzxsmSW.list(IssueController.groovy:18)
+	at grails.miko.training.IssueController$$ENzxsmSW.list(IssueController.groovy:18)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -1404,7 +1404,7 @@ Possible solutions: list(), list(java.util.Map), is(java.lang.Object), wait(), l
 groovy.lang.MissingMethodException: No signature of method: grails.tado.training.Issue.list() is applicable for argument types: (java.lang.Integer) values: [3]
 Possible solutions: list(), list(java.util.Map), is(java.lang.Object), wait(), lock(), find()
 	at org.grails.datastore.gorm.GormStaticApi.methodMissing(GormStaticApi.groovy:97)
-	at grails.tado.training.IssueController$$ENzxsmSW.list(IssueController.groovy:18)
+	at grails.miko.training.IssueController$$ENzxsmSW.list(IssueController.groovy:18)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -1414,7 +1414,7 @@ Possible solutions: list(), list(java.util.Map), is(java.lang.Object), wait(), l
 groovy.lang.MissingMethodException: No signature of method: grails.tado.training.Issue.list() is applicable for argument types: (java.lang.Integer) values: [3]
 Possible solutions: list(), list(java.util.Map), is(java.lang.Object), wait(), lock(), find()
 	at org.grails.datastore.gorm.GormStaticApi.methodMissing(GormStaticApi.groovy:97)
-	at grails.tado.training.IssueController$$ENzxsmSW.list(IssueController.groovy:18)
+	at grails.miko.training.IssueController$$ENzxsmSW.list(IssueController.groovy:18)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -1424,7 +1424,7 @@ Possible solutions: list(), list(java.util.Map), is(java.lang.Object), wait(), l
 groovy.lang.MissingMethodException: No signature of method: grails.tado.training.Issue.list() is applicable for argument types: (java.lang.Integer) values: [3]
 Possible solutions: list(), list(java.util.Map), is(java.lang.Object), wait(), lock(), find()
 	at org.grails.datastore.gorm.GormStaticApi.methodMissing(GormStaticApi.groovy:97)
-	at grails.tado.training.IssueController$$ENzxsmSW.list(IssueController.groovy:18)
+	at grails.miko.training.IssueController$$ENzxsmSW.list(IssueController.groovy:18)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -8247,7 +8247,7 @@ Caused by: org.springframework.beans.factory.BeanCreationException: Error creati
 Caused by: java.lang.ClassCastException: com.sun.proxy.$Proxy23 cannot be cast to java.lang.annotation.Annotation
 	... 5 more
 2013-03-13 17:47:49,934 [http-bio-8080-exec-1] ERROR StackTrace  - Full Stack Trace:
-org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.tado.training.IssueController]  caused exception: Runtime error executing action
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.miko.training.IssueController]  caused exception: Runtime error executing action
 	at org.codehaus.groovy.grails.web.servlet.mvc.AbstractGrailsControllerHelper.executeAction(AbstractGrailsControllerHelper.java:217)
 	at grails.plugin.cache.web.ProxyAwareMixedGrailsControllerHelper.executeAction(ProxyAwareMixedGrailsControllerHelper.java)
 	at org.codehaus.groovy.grails.web.servlet.mvc.AbstractGrailsControllerHelper.handleURI(AbstractGrailsControllerHelper.java:178)
@@ -8342,8 +8342,8 @@ Caused by: java.lang.reflect.InvocationTargetException
 	at org.codehaus.groovy.grails.web.servlet.mvc.MixedGrailsControllerHelper.invoke(MixedGrailsControllerHelper.java:69)
 	... 80 more
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$HTTPBuilder
-	at grails.tado.training.IssueController$$ENzz9yRs.$get$$class$groovyx$net$http$HTTPBuilder(IssueController.groovy)
-	at grails.tado.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
+	at grails.miko.training.IssueController$$ENzz9yRs.$get$$class$groovyx$net$http$HTTPBuilder(IssueController.groovy)
+	at grails.miko.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
 	... 87 more
 2013-03-13 17:47:49,936 [http-bio-8080-exec-1] ERROR StackTrace  - Full Stack Trace:
 org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Runtime error executing action
@@ -8438,8 +8438,8 @@ Caused by: java.lang.reflect.InvocationTargetException
 	at org.codehaus.groovy.grails.web.servlet.mvc.MixedGrailsControllerHelper.invoke(MixedGrailsControllerHelper.java:69)
 	... 80 more
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$HTTPBuilder
-	at grails.tado.training.IssueController$$ENzz9yRs.$get$$class$groovyx$net$http$HTTPBuilder(IssueController.groovy)
-	at grails.tado.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
+	at grails.miko.training.IssueController$$ENzz9yRs.$get$$class$groovyx$net$http$HTTPBuilder(IssueController.groovy)
+	at grails.miko.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
 	... 87 more
 2013-03-13 17:47:49,937 [http-bio-8080-exec-1] ERROR StackTrace  - Full Stack Trace:
 java.lang.reflect.InvocationTargetException
@@ -8531,13 +8531,13 @@ java.lang.reflect.InvocationTargetException
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$HTTPBuilder
-	at grails.tado.training.IssueController$$ENzz9yRs.$get$$class$groovyx$net$http$HTTPBuilder(IssueController.groovy)
-	at grails.tado.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
+	at grails.miko.training.IssueController$$ENzz9yRs.$get$$class$groovyx$net$http$HTTPBuilder(IssueController.groovy)
+	at grails.miko.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
 	... 87 more
 2013-03-13 17:47:49,937 [http-bio-8080-exec-1] ERROR StackTrace  - Full Stack Trace:
 java.lang.NoSuchFieldError: $class$groovyx$net$http$HTTPBuilder
-	at grails.tado.training.IssueController$$ENzz9yRs.$get$$class$groovyx$net$http$HTTPBuilder(IssueController.groovy)
-	at grails.tado.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
+	at grails.miko.training.IssueController$$ENzz9yRs.$get$$class$groovyx$net$http$HTTPBuilder(IssueController.groovy)
+	at grails.miko.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
@@ -8626,7 +8626,7 @@ java.lang.NoSuchFieldError: $class$groovyx$net$http$HTTPBuilder
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 17:47:49,938 [http-bio-8080-exec-1] ERROR StackTrace  - Full Stack Trace:
-org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.tado.training.IssueController]  caused exception: Runtime error executing action
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.miko.training.IssueController]  caused exception: Runtime error executing action
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -8637,10 +8637,10 @@ Caused by: org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecu
 Caused by: java.lang.reflect.InvocationTargetException
 	... 5 more
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$HTTPBuilder
-	at grails.tado.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
+	at grails.miko.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
 	... 5 more
 2013-03-13 17:47:49,947 [http-bio-8080-exec-1] ERROR StackTrace  - Full Stack Trace:
-org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.tado.training.IssueController]  caused exception: Runtime error executing action
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.miko.training.IssueController]  caused exception: Runtime error executing action
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -8651,7 +8651,7 @@ Caused by: org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecu
 Caused by: java.lang.reflect.InvocationTargetException
 	... 5 more
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$HTTPBuilder
-	at grails.tado.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
+	at grails.miko.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
 	... 5 more
 2013-03-13 17:47:49,947 [http-bio-8080-exec-1] ERROR StackTrace  - Full Stack Trace:
 org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Runtime error executing action
@@ -8663,7 +8663,7 @@ org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionExcepti
 Caused by: java.lang.reflect.InvocationTargetException
 	... 5 more
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$HTTPBuilder
-	at grails.tado.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
+	at grails.miko.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
 	... 5 more
 2013-03-13 17:47:49,947 [http-bio-8080-exec-1] ERROR StackTrace  - Full Stack Trace:
 java.lang.reflect.InvocationTargetException
@@ -8673,18 +8673,18 @@ java.lang.reflect.InvocationTargetException
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$HTTPBuilder
-	at grails.tado.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
+	at grails.miko.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
 	... 5 more
 2013-03-13 17:47:49,947 [http-bio-8080-exec-1] ERROR StackTrace  - Full Stack Trace:
 java.lang.NoSuchFieldError: $class$groovyx$net$http$HTTPBuilder
-	at grails.tado.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
+	at grails.miko.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 17:47:49,947 [http-bio-8080-exec-1] ERROR StackTrace  - Full Stack Trace:
-org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.tado.training.IssueController]  caused exception: Runtime error executing action
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.miko.training.IssueController]  caused exception: Runtime error executing action
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -8695,10 +8695,10 @@ Caused by: org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecu
 Caused by: java.lang.reflect.InvocationTargetException
 	... 5 more
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$HTTPBuilder
-	at grails.tado.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
+	at grails.miko.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
 	... 5 more
 2013-03-13 17:47:49,948 [http-bio-8080-exec-1] ERROR StackTrace  - Full Stack Trace:
-org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.tado.training.IssueController]  caused exception: Runtime error executing action
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.miko.training.IssueController]  caused exception: Runtime error executing action
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -8709,7 +8709,7 @@ Caused by: org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecu
 Caused by: java.lang.reflect.InvocationTargetException
 	... 5 more
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$HTTPBuilder
-	at grails.tado.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
+	at grails.miko.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
 	... 5 more
 2013-03-13 17:47:49,948 [http-bio-8080-exec-1] ERROR StackTrace  - Full Stack Trace:
 org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Runtime error executing action
@@ -8721,7 +8721,7 @@ org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionExcepti
 Caused by: java.lang.reflect.InvocationTargetException
 	... 5 more
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$HTTPBuilder
-	at grails.tado.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
+	at grails.miko.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
 	... 5 more
 2013-03-13 17:47:49,948 [http-bio-8080-exec-1] ERROR StackTrace  - Full Stack Trace:
 java.lang.reflect.InvocationTargetException
@@ -8731,18 +8731,18 @@ java.lang.reflect.InvocationTargetException
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$HTTPBuilder
-	at grails.tado.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
+	at grails.miko.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
 	... 5 more
 2013-03-13 17:47:49,948 [http-bio-8080-exec-1] ERROR StackTrace  - Full Stack Trace:
 java.lang.NoSuchFieldError: $class$groovyx$net$http$HTTPBuilder
-	at grails.tado.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
+	at grails.miko.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 17:47:49,948 [http-bio-8080-exec-1] ERROR StackTrace  - Full Stack Trace:
-org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.tado.training.IssueController]  caused exception: Runtime error executing action
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.miko.training.IssueController]  caused exception: Runtime error executing action
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -8753,7 +8753,7 @@ Caused by: org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecu
 Caused by: java.lang.reflect.InvocationTargetException
 	... 5 more
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$HTTPBuilder
-	at grails.tado.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
+	at grails.miko.training.IssueController$$ENzz9yRs.createIssue(IssueController.groovy:31)
 	... 5 more
 2013-03-13 17:56:17,248 [http-bio-8080-exec-9] ERROR StackTrace  - Full Stack Trace:
 groovyx.net.http.HttpResponseException: Not Acceptable
@@ -8778,7 +8778,7 @@ groovyx.net.http.HttpResponseException: Not Acceptable
 	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:42)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:124)
-	at grails.tado.training.IssueController$$ENzzC0sa.createIssue(IssueController.groovy:33)
+	at grails.miko.training.IssueController$$ENzzC0sa.createIssue(IssueController.groovy:33)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
@@ -8872,7 +8872,7 @@ groovyx.net.http.HttpResponseException: Not Acceptable
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController$$ENzzC0sa.createIssue(IssueController.groovy:33)
+	at grails.miko.training.IssueController$$ENzzC0sa.createIssue(IssueController.groovy:33)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -8884,7 +8884,7 @@ groovyx.net.http.HttpResponseException: Not Acceptable
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController$$ENzzC0sa.createIssue(IssueController.groovy:33)
+	at grails.miko.training.IssueController$$ENzzC0sa.createIssue(IssueController.groovy:33)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -8896,7 +8896,7 @@ groovyx.net.http.HttpResponseException: Not Acceptable
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController$$ENzzC0sa.createIssue(IssueController.groovy:33)
+	at grails.miko.training.IssueController$$ENzzC0sa.createIssue(IssueController.groovy:33)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -8908,7 +8908,7 @@ groovyx.net.http.HttpResponseException: Not Acceptable
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController$$ENzzC0sa.createIssue(IssueController.groovy:33)
+	at grails.miko.training.IssueController$$ENzzC0sa.createIssue(IssueController.groovy:33)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -8920,7 +8920,7 @@ groovyx.net.http.HttpResponseException: Not Acceptable
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController$$ENzzC0sa.createIssue(IssueController.groovy:33)
+	at grails.miko.training.IssueController$$ENzzC0sa.createIssue(IssueController.groovy:33)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -8949,7 +8949,7 @@ groovyx.net.http.HttpResponseException: Not Acceptable
 	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:42)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:124)
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:33)
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:33)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
@@ -9042,7 +9042,7 @@ groovyx.net.http.HttpResponseException: Not Acceptable
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:33)
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:33)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -9054,7 +9054,7 @@ groovyx.net.http.HttpResponseException: Not Acceptable
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:33)
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:33)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -9066,7 +9066,7 @@ groovyx.net.http.HttpResponseException: Not Acceptable
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:33)
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:33)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -9078,7 +9078,7 @@ groovyx.net.http.HttpResponseException: Not Acceptable
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:33)
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:33)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -9090,7 +9090,7 @@ groovyx.net.http.HttpResponseException: Not Acceptable
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:33)
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:33)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -9119,7 +9119,7 @@ groovyx.net.http.HttpResponseException: Not Acceptable
 	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:42)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:124)
-	at grails.tado.training.IssueController$$ENzzCxfk.createIssue(IssueController.groovy:33)
+	at grails.miko.training.IssueController$$ENzzCxfk.createIssue(IssueController.groovy:33)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
@@ -9213,7 +9213,7 @@ groovyx.net.http.HttpResponseException: Not Acceptable
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController$$ENzzCxfk.createIssue(IssueController.groovy:33)
+	at grails.miko.training.IssueController$$ENzzCxfk.createIssue(IssueController.groovy:33)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -9225,7 +9225,7 @@ groovyx.net.http.HttpResponseException: Not Acceptable
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController$$ENzzCxfk.createIssue(IssueController.groovy:33)
+	at grails.miko.training.IssueController$$ENzzCxfk.createIssue(IssueController.groovy:33)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -9237,7 +9237,7 @@ groovyx.net.http.HttpResponseException: Not Acceptable
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController$$ENzzCxfk.createIssue(IssueController.groovy:33)
+	at grails.miko.training.IssueController$$ENzzCxfk.createIssue(IssueController.groovy:33)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -9249,7 +9249,7 @@ groovyx.net.http.HttpResponseException: Not Acceptable
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController$$ENzzCxfk.createIssue(IssueController.groovy:33)
+	at grails.miko.training.IssueController$$ENzzCxfk.createIssue(IssueController.groovy:33)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -9261,7 +9261,7 @@ groovyx.net.http.HttpResponseException: Not Acceptable
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController$$ENzzCxfk.createIssue(IssueController.groovy:33)
+	at grails.miko.training.IssueController$$ENzzCxfk.createIssue(IssueController.groovy:33)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -9403,9 +9403,9 @@ org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
 	at org.apache.tools.ant.UnknownElement.execute(UnknownElement.java:291)
 	at org.apache.tools.ant.dispatch.DispatchUtils.execute(DispatchUtils.java:106)
 2013-03-13 18:29:28,978 [http-bio-8080-exec-5] ERROR StackTrace  - Full Stack Trace:
-groovy.lang.MissingPropertyException: No such property: TEXT for class: grails.tado.training.IssueController
+groovy.lang.MissingPropertyException: No such property: TEXT for class: grails.miko.training.IssueController
 	at org.codehaus.groovy.grails.plugins.web.api.ControllerTagLibraryApi.propertyMissing(ControllerTagLibraryApi.java:113)
-	at grails.tado.training.IssueController.propertyMissing(IssueController.groovy)
+	at grails.miko.training.IssueController.propertyMissing(IssueController.groovy)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
@@ -9419,7 +9419,7 @@ groovy.lang.MissingPropertyException: No such property: TEXT for class: grails.t
 	at groovy.lang.ExpandoMetaClass.getProperty(ExpandoMetaClass.java:1152)
 	at org.codehaus.groovy.runtime.callsite.PogoMetaClassGetPropertySite.getProperty(PogoMetaClassGetPropertySite.java:48)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callGroovyObjectGetProperty(AbstractCallSite.java:231)
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:67)
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:67)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
@@ -9507,47 +9507,47 @@ groovy.lang.MissingPropertyException: No such property: TEXT for class: grails.t
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 18:29:28,985 [http-bio-8080-exec-5] ERROR StackTrace  - Full Stack Trace:
-groovy.lang.MissingPropertyException: No such property: TEXT for class: grails.tado.training.IssueController
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:67)
+groovy.lang.MissingPropertyException: No such property: TEXT for class: grails.miko.training.IssueController
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:67)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 18:29:29,001 [http-bio-8080-exec-5] ERROR StackTrace  - Full Stack Trace:
-groovy.lang.MissingPropertyException: No such property: TEXT for class: grails.tado.training.IssueController
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:67)
+groovy.lang.MissingPropertyException: No such property: TEXT for class: grails.miko.training.IssueController
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:67)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 18:29:29,002 [http-bio-8080-exec-5] ERROR StackTrace  - Full Stack Trace:
-groovy.lang.MissingPropertyException: No such property: TEXT for class: grails.tado.training.IssueController
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:67)
+groovy.lang.MissingPropertyException: No such property: TEXT for class: grails.miko.training.IssueController
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:67)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 18:29:29,004 [http-bio-8080-exec-5] ERROR StackTrace  - Full Stack Trace:
-groovy.lang.MissingPropertyException: No such property: TEXT for class: grails.tado.training.IssueController
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:67)
+groovy.lang.MissingPropertyException: No such property: TEXT for class: grails.miko.training.IssueController
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:67)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 18:29:29,005 [http-bio-8080-exec-5] ERROR StackTrace  - Full Stack Trace:
-groovy.lang.MissingPropertyException: No such property: TEXT for class: grails.tado.training.IssueController
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:67)
+groovy.lang.MissingPropertyException: No such property: TEXT for class: grails.miko.training.IssueController
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:67)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 18:31:42,904 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
-org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.tado.training.IssueController]  caused exception: Runtime error executing action
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.miko.training.IssueController]  caused exception: Runtime error executing action
 	at org.codehaus.groovy.grails.web.servlet.mvc.AbstractGrailsControllerHelper.executeAction(AbstractGrailsControllerHelper.java:217)
 	at grails.plugin.cache.web.ProxyAwareMixedGrailsControllerHelper.executeAction(ProxyAwareMixedGrailsControllerHelper.java)
 	at org.codehaus.groovy.grails.web.servlet.mvc.AbstractGrailsControllerHelper.handleURI(AbstractGrailsControllerHelper.java:178)
@@ -9642,8 +9642,8 @@ Caused by: java.lang.reflect.InvocationTargetException
 	at org.codehaus.groovy.grails.web.servlet.mvc.MixedGrailsControllerHelper.invoke(MixedGrailsControllerHelper.java:69)
 	... 80 more
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$ContentType
-	at grails.tado.training.IssueController$$ENzzL1fk.$get$$class$groovyx$net$http$ContentType(IssueController.groovy)
-	at grails.tado.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
+	at grails.miko.training.IssueController$$ENzzL1fk.$get$$class$groovyx$net$http$ContentType(IssueController.groovy)
+	at grails.miko.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
 	... 87 more
 2013-03-13 18:31:42,905 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
 org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Runtime error executing action
@@ -9738,8 +9738,8 @@ Caused by: java.lang.reflect.InvocationTargetException
 	at org.codehaus.groovy.grails.web.servlet.mvc.MixedGrailsControllerHelper.invoke(MixedGrailsControllerHelper.java:69)
 	... 80 more
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$ContentType
-	at grails.tado.training.IssueController$$ENzzL1fk.$get$$class$groovyx$net$http$ContentType(IssueController.groovy)
-	at grails.tado.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
+	at grails.miko.training.IssueController$$ENzzL1fk.$get$$class$groovyx$net$http$ContentType(IssueController.groovy)
+	at grails.miko.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
 	... 87 more
 2013-03-13 18:31:42,906 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
 java.lang.reflect.InvocationTargetException
@@ -9831,13 +9831,13 @@ java.lang.reflect.InvocationTargetException
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$ContentType
-	at grails.tado.training.IssueController$$ENzzL1fk.$get$$class$groovyx$net$http$ContentType(IssueController.groovy)
-	at grails.tado.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
+	at grails.miko.training.IssueController$$ENzzL1fk.$get$$class$groovyx$net$http$ContentType(IssueController.groovy)
+	at grails.miko.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
 	... 87 more
 2013-03-13 18:31:42,906 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
 java.lang.NoSuchFieldError: $class$groovyx$net$http$ContentType
-	at grails.tado.training.IssueController$$ENzzL1fk.$get$$class$groovyx$net$http$ContentType(IssueController.groovy)
-	at grails.tado.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
+	at grails.miko.training.IssueController$$ENzzL1fk.$get$$class$groovyx$net$http$ContentType(IssueController.groovy)
+	at grails.miko.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
@@ -9926,7 +9926,7 @@ java.lang.NoSuchFieldError: $class$groovyx$net$http$ContentType
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 18:31:42,906 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
-org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.tado.training.IssueController]  caused exception: Runtime error executing action
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.miko.training.IssueController]  caused exception: Runtime error executing action
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -9937,10 +9937,10 @@ Caused by: org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecu
 Caused by: java.lang.reflect.InvocationTargetException
 	... 5 more
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$ContentType
-	at grails.tado.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
+	at grails.miko.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
 	... 5 more
 2013-03-13 18:31:42,908 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
-org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.tado.training.IssueController]  caused exception: Runtime error executing action
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.miko.training.IssueController]  caused exception: Runtime error executing action
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -9951,7 +9951,7 @@ Caused by: org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecu
 Caused by: java.lang.reflect.InvocationTargetException
 	... 5 more
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$ContentType
-	at grails.tado.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
+	at grails.miko.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
 	... 5 more
 2013-03-13 18:31:42,908 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
 org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Runtime error executing action
@@ -9963,7 +9963,7 @@ org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionExcepti
 Caused by: java.lang.reflect.InvocationTargetException
 	... 5 more
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$ContentType
-	at grails.tado.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
+	at grails.miko.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
 	... 5 more
 2013-03-13 18:31:42,908 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
 java.lang.reflect.InvocationTargetException
@@ -9973,18 +9973,18 @@ java.lang.reflect.InvocationTargetException
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$ContentType
-	at grails.tado.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
+	at grails.miko.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
 	... 5 more
 2013-03-13 18:31:42,908 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
 java.lang.NoSuchFieldError: $class$groovyx$net$http$ContentType
-	at grails.tado.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
+	at grails.miko.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 18:31:42,908 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
-org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.tado.training.IssueController]  caused exception: Runtime error executing action
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.miko.training.IssueController]  caused exception: Runtime error executing action
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -9995,10 +9995,10 @@ Caused by: org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecu
 Caused by: java.lang.reflect.InvocationTargetException
 	... 5 more
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$ContentType
-	at grails.tado.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
+	at grails.miko.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
 	... 5 more
 2013-03-13 18:31:42,909 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
-org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.tado.training.IssueController]  caused exception: Runtime error executing action
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.miko.training.IssueController]  caused exception: Runtime error executing action
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -10009,7 +10009,7 @@ Caused by: org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecu
 Caused by: java.lang.reflect.InvocationTargetException
 	... 5 more
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$ContentType
-	at grails.tado.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
+	at grails.miko.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
 	... 5 more
 2013-03-13 18:31:42,909 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
 org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Runtime error executing action
@@ -10021,7 +10021,7 @@ org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionExcepti
 Caused by: java.lang.reflect.InvocationTargetException
 	... 5 more
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$ContentType
-	at grails.tado.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
+	at grails.miko.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
 	... 5 more
 2013-03-13 18:31:42,909 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
 java.lang.reflect.InvocationTargetException
@@ -10031,18 +10031,18 @@ java.lang.reflect.InvocationTargetException
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$ContentType
-	at grails.tado.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
+	at grails.miko.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
 	... 5 more
 2013-03-13 18:31:42,909 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
 java.lang.NoSuchFieldError: $class$groovyx$net$http$ContentType
-	at grails.tado.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
+	at grails.miko.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 18:31:42,909 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
-org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.tado.training.IssueController]  caused exception: Runtime error executing action
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.miko.training.IssueController]  caused exception: Runtime error executing action
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -10053,13 +10053,13 @@ Caused by: org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecu
 Caused by: java.lang.reflect.InvocationTargetException
 	... 5 more
 Caused by: java.lang.NoSuchFieldError: $class$groovyx$net$http$ContentType
-	at grails.tado.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
+	at grails.miko.training.IssueController$$ENzzL1fk.createIssue(IssueController.groovy:67)
 	... 5 more
 2013-03-13 18:45:25,406 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
-groovy.lang.MissingPropertyException: No such property: something for class: grails.tado.training.IssueController
+groovy.lang.MissingPropertyException: No such property: something for class: grails.miko.training.IssueController
 	at org.codehaus.groovy.runtime.ScriptBytecodeAdapter.unwrap(ScriptBytecodeAdapter.java:50)
 	at org.codehaus.groovy.runtime.ScriptBytecodeAdapter.setGroovyObjectProperty(ScriptBytecodeAdapter.java:530)
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:72)
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:72)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
@@ -10147,49 +10147,49 @@ groovy.lang.MissingPropertyException: No such property: something for class: gra
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 18:45:25,420 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
-groovy.lang.MissingPropertyException: No such property: something for class: grails.tado.training.IssueController
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:72)
+groovy.lang.MissingPropertyException: No such property: something for class: grails.miko.training.IssueController
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:72)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 18:45:25,444 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
-groovy.lang.MissingPropertyException: No such property: something for class: grails.tado.training.IssueController
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:72)
+groovy.lang.MissingPropertyException: No such property: something for class: grails.miko.training.IssueController
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:72)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 18:45:25,445 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
-groovy.lang.MissingPropertyException: No such property: something for class: grails.tado.training.IssueController
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:72)
+groovy.lang.MissingPropertyException: No such property: something for class: grails.miko.training.IssueController
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:72)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 18:45:25,448 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
-groovy.lang.MissingPropertyException: No such property: something for class: grails.tado.training.IssueController
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:72)
+groovy.lang.MissingPropertyException: No such property: something for class: grails.miko.training.IssueController
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:72)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 18:45:25,450 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
-groovy.lang.MissingPropertyException: No such property: something for class: grails.tado.training.IssueController
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:72)
+groovy.lang.MissingPropertyException: No such property: something for class: grails.miko.training.IssueController
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:72)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 19:13:22,426 [http-bio-8080-exec-4] ERROR StackTrace  - Full Stack Trace:
-groovy.lang.MissingPropertyException: No such property: POST for class: grails.tado.training.IssueController
+groovy.lang.MissingPropertyException: No such property: POST for class: grails.miko.training.IssueController
 	at org.codehaus.groovy.grails.plugins.web.api.ControllerTagLibraryApi.propertyMissing(ControllerTagLibraryApi.java:113)
-	at grails.tado.training.IssueController.propertyMissing(IssueController.groovy)
+	at grails.miko.training.IssueController.propertyMissing(IssueController.groovy)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
@@ -10203,7 +10203,7 @@ groovy.lang.MissingPropertyException: No such property: POST for class: grails.t
 	at groovy.lang.ExpandoMetaClass.getProperty(ExpandoMetaClass.java:1152)
 	at org.codehaus.groovy.runtime.callsite.PogoMetaClassGetPropertySite.getProperty(PogoMetaClassGetPropertySite.java:48)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.callGroovyObjectGetProperty(AbstractCallSite.java:231)
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:92)
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:92)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
@@ -10291,47 +10291,47 @@ groovy.lang.MissingPropertyException: No such property: POST for class: grails.t
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 19:13:22,434 [http-bio-8080-exec-4] ERROR StackTrace  - Full Stack Trace:
-groovy.lang.MissingPropertyException: No such property: POST for class: grails.tado.training.IssueController
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:92)
+groovy.lang.MissingPropertyException: No such property: POST for class: grails.miko.training.IssueController
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:92)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 19:13:22,449 [http-bio-8080-exec-4] ERROR StackTrace  - Full Stack Trace:
-groovy.lang.MissingPropertyException: No such property: POST for class: grails.tado.training.IssueController
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:92)
+groovy.lang.MissingPropertyException: No such property: POST for class: grails.miko.training.IssueController
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:92)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 19:13:22,450 [http-bio-8080-exec-4] ERROR StackTrace  - Full Stack Trace:
-groovy.lang.MissingPropertyException: No such property: POST for class: grails.tado.training.IssueController
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:92)
+groovy.lang.MissingPropertyException: No such property: POST for class: grails.miko.training.IssueController
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:92)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 19:13:22,451 [http-bio-8080-exec-4] ERROR StackTrace  - Full Stack Trace:
-groovy.lang.MissingPropertyException: No such property: POST for class: grails.tado.training.IssueController
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:92)
+groovy.lang.MissingPropertyException: No such property: POST for class: grails.miko.training.IssueController
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:92)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 19:13:22,452 [http-bio-8080-exec-4] ERROR StackTrace  - Full Stack Trace:
-groovy.lang.MissingPropertyException: No such property: POST for class: grails.tado.training.IssueController
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:92)
+groovy.lang.MissingPropertyException: No such property: POST for class: grails.miko.training.IssueController
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:92)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 19:36:43,103 [http-bio-8080-exec-9] ERROR StackTrace  - Full Stack Trace:
-org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.tado.training.IssueController]  caused exception: Runtime error executing action
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.miko.training.IssueController]  caused exception: Runtime error executing action
 	at org.codehaus.groovy.grails.web.servlet.mvc.AbstractGrailsControllerHelper.executeAction(AbstractGrailsControllerHelper.java:217)
 	at grails.plugin.cache.web.ProxyAwareMixedGrailsControllerHelper.executeAction(ProxyAwareMixedGrailsControllerHelper.java)
 	at org.codehaus.groovy.grails.web.servlet.mvc.AbstractGrailsControllerHelper.handleURI(AbstractGrailsControllerHelper.java:178)
@@ -10425,8 +10425,8 @@ Caused by: java.lang.reflect.InvocationTargetException
 	at com.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1260)
 	at org.codehaus.groovy.grails.web.servlet.mvc.MixedGrailsControllerHelper.invoke(MixedGrailsControllerHelper.java:69)
 	... 80 more
-Caused by: java.lang.NoSuchMethodError: grails.tado.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
-	at grails.tado.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
+Caused by: java.lang.NoSuchMethodError: grails.miko.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
+	at grails.miko.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
 	... 87 more
 2013-03-13 19:36:43,108 [http-bio-8080-exec-9] ERROR StackTrace  - Full Stack Trace:
 org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Runtime error executing action
@@ -10520,8 +10520,8 @@ Caused by: java.lang.reflect.InvocationTargetException
 	at com.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1260)
 	at org.codehaus.groovy.grails.web.servlet.mvc.MixedGrailsControllerHelper.invoke(MixedGrailsControllerHelper.java:69)
 	... 80 more
-Caused by: java.lang.NoSuchMethodError: grails.tado.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
-	at grails.tado.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
+Caused by: java.lang.NoSuchMethodError: grails.miko.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
+	at grails.miko.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
 	... 87 more
 2013-03-13 19:36:43,109 [http-bio-8080-exec-9] ERROR StackTrace  - Full Stack Trace:
 java.lang.reflect.InvocationTargetException
@@ -10612,12 +10612,12 @@ java.lang.reflect.InvocationTargetException
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
-Caused by: java.lang.NoSuchMethodError: grails.tado.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
-	at grails.tado.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
+Caused by: java.lang.NoSuchMethodError: grails.miko.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
+	at grails.miko.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
 	... 87 more
 2013-03-13 19:36:43,110 [http-bio-8080-exec-9] ERROR StackTrace  - Full Stack Trace:
-java.lang.NoSuchMethodError: grails.tado.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
-	at grails.tado.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
+java.lang.NoSuchMethodError: grails.miko.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
+	at grails.miko.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
@@ -10706,7 +10706,7 @@ java.lang.NoSuchMethodError: grails.tado.training.IssueController$_createIssue_c
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 19:36:43,110 [http-bio-8080-exec-9] ERROR StackTrace  - Full Stack Trace:
-org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.tado.training.IssueController]  caused exception: Runtime error executing action
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.miko.training.IssueController]  caused exception: Runtime error executing action
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -10716,11 +10716,11 @@ Caused by: org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecu
 	... 5 more
 Caused by: java.lang.reflect.InvocationTargetException
 	... 5 more
-Caused by: java.lang.NoSuchMethodError: grails.tado.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
-	at grails.tado.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
+Caused by: java.lang.NoSuchMethodError: grails.miko.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
+	at grails.miko.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
 	... 5 more
 2013-03-13 19:36:43,123 [http-bio-8080-exec-9] ERROR StackTrace  - Full Stack Trace:
-org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.tado.training.IssueController]  caused exception: Runtime error executing action
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.miko.training.IssueController]  caused exception: Runtime error executing action
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -10730,8 +10730,8 @@ Caused by: org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecu
 	... 5 more
 Caused by: java.lang.reflect.InvocationTargetException
 	... 5 more
-Caused by: java.lang.NoSuchMethodError: grails.tado.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
-	at grails.tado.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
+Caused by: java.lang.NoSuchMethodError: grails.miko.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
+	at grails.miko.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
 	... 5 more
 2013-03-13 19:36:43,124 [http-bio-8080-exec-9] ERROR StackTrace  - Full Stack Trace:
 org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Runtime error executing action
@@ -10742,8 +10742,8 @@ org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionExcepti
 	at java.lang.Thread.run(Thread.java:680)
 Caused by: java.lang.reflect.InvocationTargetException
 	... 5 more
-Caused by: java.lang.NoSuchMethodError: grails.tado.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
-	at grails.tado.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
+Caused by: java.lang.NoSuchMethodError: grails.miko.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
+	at grails.miko.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
 	... 5 more
 2013-03-13 19:36:43,124 [http-bio-8080-exec-9] ERROR StackTrace  - Full Stack Trace:
 java.lang.reflect.InvocationTargetException
@@ -10752,19 +10752,19 @@ java.lang.reflect.InvocationTargetException
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
-Caused by: java.lang.NoSuchMethodError: grails.tado.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
-	at grails.tado.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
+Caused by: java.lang.NoSuchMethodError: grails.miko.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
+	at grails.miko.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
 	... 5 more
 2013-03-13 19:36:43,124 [http-bio-8080-exec-9] ERROR StackTrace  - Full Stack Trace:
-java.lang.NoSuchMethodError: grails.tado.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
-	at grails.tado.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
+java.lang.NoSuchMethodError: grails.miko.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
+	at grails.miko.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 19:36:43,124 [http-bio-8080-exec-9] ERROR StackTrace  - Full Stack Trace:
-org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.tado.training.IssueController]  caused exception: Runtime error executing action
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.miko.training.IssueController]  caused exception: Runtime error executing action
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -10774,11 +10774,11 @@ Caused by: org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecu
 	... 5 more
 Caused by: java.lang.reflect.InvocationTargetException
 	... 5 more
-Caused by: java.lang.NoSuchMethodError: grails.tado.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
-	at grails.tado.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
+Caused by: java.lang.NoSuchMethodError: grails.miko.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
+	at grails.miko.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
 	... 5 more
 2013-03-13 19:36:43,127 [http-bio-8080-exec-9] ERROR StackTrace  - Full Stack Trace:
-org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.tado.training.IssueController]  caused exception: Runtime error executing action
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.miko.training.IssueController]  caused exception: Runtime error executing action
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -10788,8 +10788,8 @@ Caused by: org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecu
 	... 5 more
 Caused by: java.lang.reflect.InvocationTargetException
 	... 5 more
-Caused by: java.lang.NoSuchMethodError: grails.tado.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
-	at grails.tado.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
+Caused by: java.lang.NoSuchMethodError: grails.miko.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
+	at grails.miko.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
 	... 5 more
 2013-03-13 19:36:43,127 [http-bio-8080-exec-9] ERROR StackTrace  - Full Stack Trace:
 org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Runtime error executing action
@@ -10800,8 +10800,8 @@ org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionExcepti
 	at java.lang.Thread.run(Thread.java:680)
 Caused by: java.lang.reflect.InvocationTargetException
 	... 5 more
-Caused by: java.lang.NoSuchMethodError: grails.tado.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
-	at grails.tado.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
+Caused by: java.lang.NoSuchMethodError: grails.miko.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
+	at grails.miko.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
 	... 5 more
 2013-03-13 19:36:43,127 [http-bio-8080-exec-9] ERROR StackTrace  - Full Stack Trace:
 java.lang.reflect.InvocationTargetException
@@ -10810,19 +10810,19 @@ java.lang.reflect.InvocationTargetException
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
-Caused by: java.lang.NoSuchMethodError: grails.tado.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
-	at grails.tado.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
+Caused by: java.lang.NoSuchMethodError: grails.miko.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
+	at grails.miko.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
 	... 5 more
 2013-03-13 19:36:43,127 [http-bio-8080-exec-9] ERROR StackTrace  - Full Stack Trace:
-java.lang.NoSuchMethodError: grails.tado.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
-	at grails.tado.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
+java.lang.NoSuchMethodError: grails.miko.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
+	at grails.miko.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918)
 	at java.lang.Thread.run(Thread.java:680)
 2013-03-13 19:36:43,128 [http-bio-8080-exec-9] ERROR StackTrace  - Full Stack Trace:
-org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.tado.training.IssueController]  caused exception: Runtime error executing action
+org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecutionException: Executing action [createIssue] of controller [grails.miko.training.IssueController]  caused exception: Runtime error executing action
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -10832,8 +10832,8 @@ Caused by: org.codehaus.groovy.grails.web.servlet.mvc.exceptions.ControllerExecu
 	... 5 more
 Caused by: java.lang.reflect.InvocationTargetException
 	... 5 more
-Caused by: java.lang.NoSuchMethodError: grails.tado.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
-	at grails.tado.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
+Caused by: java.lang.NoSuchMethodError: grails.miko.training.IssueController$_createIssue_closure5.<init>(Ljava/lang/Object;Ljava/lang/Object;Lgroovy/lang/Reference;)V
+	at grails.miko.training.IssueController$$ENzzbP1M.createIssue(IssueController.groovy:98)
 	... 5 more
 2013-03-13 20:21:58,607 [http-bio-8080-exec-8] ERROR StackTrace  - Full Stack Trace:
 groovyx.net.http.HttpResponseException: Not Found
@@ -10857,7 +10857,7 @@ groovyx.net.http.HttpResponseException: Not Found
 	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:42)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:120)
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:116)
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:116)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
@@ -10949,7 +10949,7 @@ groovyx.net.http.HttpResponseException: Not Found
 	at groovyx.net.http.HTTPBuilder.defaultFailureHandler(HTTPBuilder.java:636)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.post(HTTPBuilder.java:345)
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:116)
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:116)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -10960,7 +10960,7 @@ groovyx.net.http.HttpResponseException: Not Found
 	at groovyx.net.http.HTTPBuilder.defaultFailureHandler(HTTPBuilder.java:636)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.post(HTTPBuilder.java:345)
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:116)
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:116)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -10971,7 +10971,7 @@ groovyx.net.http.HttpResponseException: Not Found
 	at groovyx.net.http.HTTPBuilder.defaultFailureHandler(HTTPBuilder.java:636)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.post(HTTPBuilder.java:345)
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:116)
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:116)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -10982,7 +10982,7 @@ groovyx.net.http.HttpResponseException: Not Found
 	at groovyx.net.http.HTTPBuilder.defaultFailureHandler(HTTPBuilder.java:636)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.post(HTTPBuilder.java:345)
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:116)
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:116)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -10993,7 +10993,7 @@ groovyx.net.http.HttpResponseException: Not Found
 	at groovyx.net.http.HTTPBuilder.defaultFailureHandler(HTTPBuilder.java:636)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.post(HTTPBuilder.java:345)
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:116)
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:116)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -11022,7 +11022,7 @@ groovyx.net.http.HttpResponseException: Bad Request
 	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:42)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:124)
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:98)
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:98)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
@@ -11115,7 +11115,7 @@ groovyx.net.http.HttpResponseException: Bad Request
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:98)
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:98)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -11127,7 +11127,7 @@ groovyx.net.http.HttpResponseException: Bad Request
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:98)
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:98)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -11139,7 +11139,7 @@ groovyx.net.http.HttpResponseException: Bad Request
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:98)
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:98)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -11151,7 +11151,7 @@ groovyx.net.http.HttpResponseException: Bad Request
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:98)
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:98)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -11163,7 +11163,7 @@ groovyx.net.http.HttpResponseException: Bad Request
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController.createIssue(IssueController.groovy:98)
+	at grails.miko.training.IssueController.createIssue(IssueController.groovy:98)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -11192,7 +11192,7 @@ groovyx.net.http.HttpResponseException: Bad Request
 	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:42)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:124)
-	at grails.tado.training.IssueController$$ENzzp2kq.createIssue(IssueController.groovy:98)
+	at grails.miko.training.IssueController$$ENzzp2kq.createIssue(IssueController.groovy:98)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
@@ -11286,7 +11286,7 @@ groovyx.net.http.HttpResponseException: Bad Request
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController$$ENzzp2kq.createIssue(IssueController.groovy:98)
+	at grails.miko.training.IssueController$$ENzzp2kq.createIssue(IssueController.groovy:98)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -11298,7 +11298,7 @@ groovyx.net.http.HttpResponseException: Bad Request
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController$$ENzzp2kq.createIssue(IssueController.groovy:98)
+	at grails.miko.training.IssueController$$ENzzp2kq.createIssue(IssueController.groovy:98)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -11310,7 +11310,7 @@ groovyx.net.http.HttpResponseException: Bad Request
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController$$ENzzp2kq.createIssue(IssueController.groovy:98)
+	at grails.miko.training.IssueController$$ENzzp2kq.createIssue(IssueController.groovy:98)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -11322,7 +11322,7 @@ groovyx.net.http.HttpResponseException: Bad Request
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController$$ENzzp2kq.createIssue(IssueController.groovy:98)
+	at grails.miko.training.IssueController$$ENzzp2kq.createIssue(IssueController.groovy:98)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -11334,7 +11334,7 @@ groovyx.net.http.HttpResponseException: Bad Request
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController$$ENzzp2kq.createIssue(IssueController.groovy:98)
+	at grails.miko.training.IssueController$$ENzzp2kq.createIssue(IssueController.groovy:98)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -11363,7 +11363,7 @@ groovyx.net.http.HttpResponseException: Bad Request
 	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:42)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
 	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:124)
-	at grails.tado.training.IssueController$$ENzzpOro.createIssue(IssueController.groovy:98)
+	at grails.miko.training.IssueController$$ENzzpOro.createIssue(IssueController.groovy:98)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
@@ -11457,7 +11457,7 @@ groovyx.net.http.HttpResponseException: Bad Request
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController$$ENzzpOro.createIssue(IssueController.groovy:98)
+	at grails.miko.training.IssueController$$ENzzpOro.createIssue(IssueController.groovy:98)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -11469,7 +11469,7 @@ groovyx.net.http.HttpResponseException: Bad Request
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController$$ENzzpOro.createIssue(IssueController.groovy:98)
+	at grails.miko.training.IssueController$$ENzzpOro.createIssue(IssueController.groovy:98)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -11481,7 +11481,7 @@ groovyx.net.http.HttpResponseException: Bad Request
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController$$ENzzpOro.createIssue(IssueController.groovy:98)
+	at grails.miko.training.IssueController$$ENzzpOro.createIssue(IssueController.groovy:98)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -11493,7 +11493,7 @@ groovyx.net.http.HttpResponseException: Bad Request
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController$$ENzzpOro.createIssue(IssueController.groovy:98)
+	at grails.miko.training.IssueController$$ENzzpOro.createIssue(IssueController.groovy:98)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)
@@ -11505,7 +11505,7 @@ groovyx.net.http.HttpResponseException: Bad Request
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:492)
 	at groovyx.net.http.HTTPBuilder.doRequest(HTTPBuilder.java:427)
 	at groovyx.net.http.HTTPBuilder.request(HTTPBuilder.java:376)
-	at grails.tado.training.IssueController$$ENzzpOro.createIssue(IssueController.groovy:98)
+	at grails.miko.training.IssueController$$ENzzpOro.createIssue(IssueController.groovy:98)
 	at grails.plugin.cache.web.filter.PageFragmentCachingFilter.doFilter(PageFragmentCachingFilter.java:195)
 	at grails.plugin.cache.web.filter.AbstractFilter.doFilter(AbstractFilter.java:63)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895)

@@ -1,11 +1,12 @@
 package grails.tado.training
 
+import grails.miko.training.MainMikoController
 import grails.test.mixin.Mock
 import grails.test.mixin.TestFor
 
-@TestFor(MainTadoController)
+@TestFor(MainMikoController)
 @Mock(MainTado)
-class MainTadoControllerTests {
+class MainMikoControllerTests {
 
     def populateValidParams(params) {
         assert params != null

@@ -24,7 +24,7 @@ package grails.miko.training
  * THE SOFTWARE.
  */
 
-class MainTadoController {
+class MainMikoController {
 
     static allowedMethods = [save: "POST", update: "POST", delete: "POST"]
 

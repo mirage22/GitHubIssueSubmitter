@@ -1,5 +1,6 @@
 package grails.tado.training
 
+import grails.miko.training.IssueController
 import grails.test.mixin.Mock
 import grails.test.mixin.TestFor
 
